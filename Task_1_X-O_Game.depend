@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1657038533 source:g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_1_x-o_game\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+
+1657029129 g:\adel\0 self study\embedded systems\sprints\es booster l1\tasks\task_1_x-o_game\std_types.h
+
